@@ -1,0 +1,17 @@
+class main{
+public static void main(String [] args){
+int a=100;
+int b=200;
+int c=;
+system.out prinln ("before swpaing value");
+system.out.prinln(a);
+system.out prinln(b);
+system.out println("After swaping value is);
+
+c=a;
+a=b;
+b=c;
+
+
+system.out.prinln(a);
+system.out prinln(b);
