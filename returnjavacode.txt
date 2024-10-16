@@ -1,0 +1,12 @@
+Public class returnjava{
+Public static void main(String[]agrs){
+int n;
+int r;
+Scanner sc=new Scanner (System.in);
+system.out println("Enetr YOur Number");
+while(n>0){
+r=n%10;
+system.out .prinln("The revers Oder Is:+r);
+n=n/10;
+
+
